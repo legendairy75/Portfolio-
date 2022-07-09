@@ -134,6 +134,8 @@ table {
     border-spacing: 0;
 }
 
+@import "https://cdn.jsdelivr.net/npm/bulma@0.9.4/css/bulma.min.css";
+
 /* CSS START*/
 html {
     font-size: large;
@@ -158,6 +160,8 @@ h1#HOME {
     top: 20px; */
     /* transform: translateY(); */
 }
+
+
 
 /* h1{
     transform: scale(0.3);
